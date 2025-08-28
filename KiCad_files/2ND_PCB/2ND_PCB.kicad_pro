@@ -249,7 +249,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "spinning.kicad_pro",
+    "filename": "2ND_PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -414,7 +414,7 @@
     ],
     [
       "149f3120-9cd7-47ee-92dc-9bdec38b8376",
-      "10_LED_ARM"
+      "10_LED_ARM1"
     ],
     [
       "cfbbf487-0da7-4357-bd55-3c8e5524ea6e",
@@ -422,15 +422,15 @@
     ],
     [
       "46d3c7ac-04c2-4d0e-bfbf-76c934ca9788",
-      "10_LED_ARM1"
-    ],
-    [
-      "2fa70129-f5d3-421a-a8cc-5d70eb73528f",
       "10_LED_ARM2"
     ],
     [
-      "c6d00521-7013-457b-b2a3-eaebc5606d6b",
+      "2fa70129-f5d3-421a-a8cc-5d70eb73528f",
       "10_LED_ARM3"
+    ],
+    [
+      "c6d00521-7013-457b-b2a3-eaebc5606d6b",
+      "10_LED_ARM4"
     ]
   ],
   "text_variables": {}
