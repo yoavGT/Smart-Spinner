@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "C:/snir/technion/courses/third_year/Semester_F/project_a/kiCad/footprints")(options "")(descr ""))
+)
